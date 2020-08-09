@@ -11,7 +11,10 @@
 
 "Depends on where you were going my friend."
 
+-> world_choice
 
+
+=== world_choice ===
 * [Light world]
   
   "Oh, my friend then you have to go this way."
@@ -36,6 +39,8 @@
   
   "Tell me now, did you have a long trip to here?" 
   
-  "I was sleeping all the way to here someone should be transferring me."
+  "I was sleeping all the way to here -> transfer
+  === transfer ===
+  someone should be transferring me."
   
   -> END
