@@ -4,16 +4,16 @@
 === intro ===
 "H...hi."
 "Hello, friend!"
-"Uhm, is this the right world or am I trapped in here?"
-"Depends on where you were going my friend."
--> world_choice
+"Uhm, where am I, why I am tied up?"
+"We're located at [22.31625,-158.23963]. As for these ropes, they're there for your own safety...friend."
+-> plan_question
 
-=== world_choice ===
-* [Light world] -> light_world
-* [Shadow world] -> shadow_world
+=== plan_question ===
+* [AHHHHHAAAAAAAFDJFKSDHHHHHHHHHHH] -> ahhhhhh
+* [Am I in a middle of some experiment?] -> experiment
 -> END
   
-=== light_world ===
+=== ahhhhhh ===
 "Oh, my friend then you have to go this way."
 "And go down that way."
 "And turn left at this route."
@@ -23,7 +23,7 @@
 ** Ok I'm out of here.
 -> DONE
 
-=== shadow_world ===
+=== experiment ===
 "Well then yes, of course it's the right one!" 
 "Tell me now, did you have a long trip to here?" 
 "I was sleeping all the way to here -> transfer
