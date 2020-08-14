@@ -14,10 +14,14 @@
 -> END
   
 === ahhhhhh ===
-"Oh, my friend then you have to go this way."
-"And go down that way."
-"And turn left at this route."
-"And..."
+AHHHHHHHHHHHHHHHHHHHHH
+AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+"Ok, are you done?"
+"Let me think about it..."
+"AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+"I think I know a way to make you stop."
+"Wait I remember you told me something about my safety."
+"What was that about?"
 ** Is it really that far away?
 -> DONE
 ** Ok I'm out of here.
