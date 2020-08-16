@@ -22,9 +22,14 @@ AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
 "I think I know a way to make you stop."
 "Wait I remember you told me something about my safety."
 "What was that about?"
-** Is it really that far away?
+** Eh?
+    "Eh? Safety? I didn't mention safety I meant something else."
+    "So...are you going to explain to me what are we doing here or not?"
+    "Let me introduce you to a friend that can explain better than me."
+    And suddenly a big alien form appears. 
+    Our character believes that he is going to be eaten and dies from his terror.
 -> DONE
-** Ok I'm out of here.
+** Hm.
 -> DONE
 
 === experiment ===
